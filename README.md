@@ -1,3 +1,4 @@
+
 # the_silk_route
 
 Note : Download the repository and fire up the "index.html" file.
@@ -11,8 +12,9 @@ The the_silk_route is mobile responsive and can function like a breeze on all sc
      -> HTML 5
      -> CSS
      -> Bootstrap
-     -> Js (ES6)
+     -> Js(ES6)
      -> jQuery
+     -> JSON
      -> font-awesome (ICONS)
 
 # Screenshots:
