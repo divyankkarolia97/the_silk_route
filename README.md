@@ -2,7 +2,7 @@
 
 # the_silk_route
 
-<a href="planner-effort-50337.bitballoon.com">the_silk_route</a>
+ HOST LINK: <a href="http://planner-effort-50337.bitballoon.com/">the_silk_route</a>
 
 Note : Download the repository and fire up the "index.html" file.
 
