@@ -1,4 +1,3 @@
-E
 
 # the_silk_route
 
