@@ -1,0 +1,40 @@
+[{
+  "id": 0,
+  "price": 2560,
+  "name": "Watch"
+
+},
+  {
+    "id": 1,
+    "price": 4580,
+    "name": "Shoes"
+
+  },
+  {
+    "id": 2,
+    "price": 6720,
+    "name": "Sunglasses"
+
+  },
+  {
+    "id": 3,
+    "price": 1524,
+    "name": "Cap"
+
+  },
+  {
+    "id": 4,
+    "price": 2999,
+    "name": "Headphones"
+
+  },
+  {
+    "id": 5,
+    "price": 8500,
+    "name": "Guitar"
+
+  }
+
+
+
+]
