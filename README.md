@@ -1,2 +1,27 @@
-# the_silk_route
-"the_silk_route" is a prototype e-commerce online store with a catalogue and a cart which summerises the things u placed in the cart.
+# to_do_list
+
+Note : Download the repository and fire up the "index.html" file.
+
+(App is made with ES6 standards and hence is supported on all modern browsers. Tested_on:Chrome,Firefox)
+
+The the_silk_route is mobile responsive and can function like a breeze on all screen size.
+
+# Techonologies Used :
+
+     -> HTML 5
+     -> CSS
+     -> Bootstrap
+     -> Js (ES6)
+     -> jQuery
+     -> font-awesome (ICONS)
+
+# Screenshots:
+
+  CATALOGUE:
+  
+![Alt text](https://github.com/divyankkarolia97/the_silk_route/blob/master/Screenshots/TheSilkRoute(Catalogue).jpg "Screenshot(Desktop_Catalogue)")
+
+  CART:
+  
+![Alt text](https://github.com/divyankkarolia97/the_silk_route/blob/master/Screenshots/TheSilkRoute(Cart).jpg "Screenshot(Desktop_Cart)")
+
