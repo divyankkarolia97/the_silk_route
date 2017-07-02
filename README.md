@@ -1,4 +1,4 @@
-
+E
 
 # the_silk_route
 
@@ -6,7 +6,7 @@
 
 Note : Download the repository and fire up the "index.html" file.
 
-(App is made with ES6 standards and hence is supported on all modern browsers. Tested_on: Chrome,Firefox)
+(App is made with ES6 standards and hence is supported on all modern browsers. Tested_on: Chrome,Firefox,Edge)
 
 The the_silk_route is mobile responsive and can function like a breeze on all screen size.
 
