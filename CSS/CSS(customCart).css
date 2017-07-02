@@ -1,0 +1,14 @@
+h1{
+    font-family: "Times New Roman";
+    font-size: 60px;
+}
+
+
+.col-sm-4{
+    padding: 15px;
+}
+
+.container-fluid{
+    margin-left: 25px;
+    margin-right: 42px;
+}
